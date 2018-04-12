@@ -20,6 +20,7 @@ import java.io.StringWriter;
  * 创建xml文件
  */
 public class CreateXML {
+
     public static void main(String[] strings) {
         try {
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
